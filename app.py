@@ -1,3 +1,5 @@
+# KR2: Demchenkov
+
 import os
 import socket
 
